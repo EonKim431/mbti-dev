@@ -68,7 +68,6 @@ body {
 }
 
 .btn-green:active{
-  margin-top: 40px;
   box-shadow: 0 4px 0 #299a82;
   transform: translate(10px);
 }
